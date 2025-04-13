@@ -1,2 +1,2 @@
 # vazou-aqui
-Vazou Aqui it's an start-up that i made with some friends to SEBRAE, in a challenge that we need to solve a problem using tecnology, so i did the app to report leaks in the streets of Porto Velho.
+"Vazou Aqui" is a startup I created with some friends for a SEBRAE challenge. In this challenge, we had to solve a problem using technology, so we developed an app to report water leaks on the streets of Porto Velho.
